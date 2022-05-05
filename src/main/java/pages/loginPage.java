@@ -38,4 +38,9 @@ public class loginPage
 	{
 		eUtils.doClick(loginButton);
 	}
+	
+	public void testMethod()
+	{
+		System.out.println("this is test method");
+	}
 }
